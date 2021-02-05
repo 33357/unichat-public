@@ -1,7 +1,7 @@
 <!--
  * @Author: 33357
  * @Date: 2021-02-05 13:15:37
- * @LastEditTime: 2021-02-05 22:02:40
+ * @LastEditTime: 2021-02-05 22:03:13
  * @LastEditors: 33357
 -->
 
@@ -50,7 +50,7 @@ unichat 是一款基于区块链上金融关系而搭建的匿名社交平台，
 - **社群检索：**
 
 <img src="./image/loadToken-1.jpg" width="250" height="500" alt="社群检索-1"/>->
-<img src="./image/loadToken-2.jpg" width="250" height="500" alt="社群检索-2"/>->
+<img src="./image/loadToken-2.jpg" width="250" height="500" alt="社群检索-2"/>
 
 - **社群添加：**
 
