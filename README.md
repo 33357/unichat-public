@@ -1,7 +1,7 @@
 <!--
  * @Author: 33357
  * @Date: 2021-02-05 13:15:37
- * @LastEditTime: 2021-02-05 22:21:09
+ * @LastEditTime: 2021-02-05 22:26:16
  * @LastEditors: 33357
 -->
 
@@ -64,7 +64,7 @@ unichat 是一款基于区块链上金融关系而搭建的匿名社交平台，
 
 ## 相关项目
 
-- **unichat 服务器端开源信息：** [unichat-server-public](https://github.com/33357/unichat-server-public)
+- **unichat Server端开源信息：** [unichat-server-public](https://github.com/33357/unichat-server-public)
 
 - **unichat APP端开源信息：** [unichat-app-public](https://github.com/33357/unichat-app-public)
 
