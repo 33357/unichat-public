@@ -1,7 +1,7 @@
 <!--
  * @Author: 33357
  * @Date: 2021-02-05 13:15:37
- * @LastEditTime: 2021-02-06 16:42:09
+ * @LastEditTime: 2021-02-06 16:42:41
  * @LastEditors: 33357
 -->
 
@@ -27,7 +27,7 @@ unichat是一款基于区块链上金融关系而搭建的匿名社交平台，�
 
 - **Token即社群：** unichat将为每一种Token开辟专门的社群，任何拥有该Token的人都能自动加入。
 
-- **Token即身份：** 在unichat，有Token本身就是身份。在这里，没人会在乎你的现实身份，即使对面是一条狗在打字。
+- **Token即身份：** 在unichat，有Token本身就是身份。在这里，只要有Token，没人会在乎现实身份，即使对面是一条狗在打字。
 
 - **Token即权利：** unichat中群聊的管理权归Token社区，用户可以使用Token选举管理员、制定规则。
 
