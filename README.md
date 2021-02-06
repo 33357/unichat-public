@@ -1,7 +1,7 @@
 <!--
  * @Author: 33357
  * @Date: 2021-02-05 13:15:37
- * @LastEditTime: 2021-02-06 09:40:57
+ * @LastEditTime: 2021-02-06 09:44:13
  * @LastEditors: 33357
 -->
 
@@ -64,6 +64,8 @@ unichat 是一款基于区块链上金融关系而搭建的匿名社交平台，
 ## 访问项目
 
 目前项目部署于：[https://unichat.top](https://unichat.top)
+
+PC端支持Chrome浏览器和MetaMask，移动端支持IMToken。
 
 ## 相关项目
 
