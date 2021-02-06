@@ -1,7 +1,7 @@
 <!--
  * @Author: 33357
  * @Date: 2021-02-05 13:15:37
- * @LastEditTime: 2021-02-06 10:28:00
+ * @LastEditTime: 2021-02-06 11:20:24
  * @LastEditors: 33357
 -->
 
@@ -42,6 +42,10 @@ unichat 是一款基于区块链上金融关系而搭建的匿名社交平台，
 
 - **社群添加：** 用户主动输入 Token 地址，钱包检索其持有余额是否为 0，当余额不为 0 时则加入该 Token 所属社群。
 
+- **显示Token：** 用户进行聊天时可以看到其他用户的Token余额。
+
+- **验证Token：** 用可以点击其他用户的名片跳转区块链浏览器验证Token余额。
+
 ## 项目预览
 
 - **用户登录：**
@@ -60,6 +64,17 @@ unichat 是一款基于区块链上金融关系而搭建的匿名社交平台，
 <img src="./image/addToken-1.jpg" width="250" height="500" alt="社群添加-1"/>->
 <img src="./image/addToken-2.jpg" width="250" height="500" alt="社群添加-2"/>->
 <img src="./image/addToken-3.jpg" width="250" height="500" alt="社群添加-3"/>
+
+- **显示Token：**
+
+<img src="./image/chat-1.jpg" width="250" height="500" alt="显示Token-1"/>->
+<img src="./image/chat-2.jpg" width="250" height="500" alt="显示Token-2"/>
+
+- **验证Token：**
+
+<img src="./image/businessCard-1.jpg" width="250" height="500" alt="验证Token-1"/>->
+<img src="./image/businessCard-2.jpg" width="250" height="500" alt="验证Token-2"/>->
+<img src="./image/businessCard-3.jpg" width="250" height="500" alt="验证Token-3"/>
 
 ## 访问项目
 
