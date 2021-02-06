@@ -1,7 +1,7 @@
 <!--
  * @Author: 33357
  * @Date: 2021-02-05 13:15:37
- * @LastEditTime: 2021-02-06 09:44:13
+ * @LastEditTime: 2021-02-06 10:28:00
  * @LastEditors: 33357
 -->
 
@@ -95,4 +95,4 @@ PC端支持Chrome浏览器和MetaMask，移动端支持IMToken。
 
 ## 开源协议
 
-[MIT](LICENSE) © Richard Littauer
+[MIT](LICENSE)
