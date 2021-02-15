@@ -1,7 +1,7 @@
 <!--
  * @Author: 33357
  * @Date: 2021-02-05 13:15:37
- * @LastEditTime: 2021-02-15 17:42:00
+ * @LastEditTime: 2021-02-15 17:42:30
  * @LastEditors: 33357
 -->
 
@@ -110,7 +110,7 @@ PC端支持Chrome浏览器和MetaMask，移动端支持IMToken。
 
 ## 联系方式
 
-微信号：nihao-33357 ,备注：unichat（备注不正确一律拒绝）
+微信号：nihao-33357 ,备注：unichat（备注不正确一律回绝）
 
 ## 开源协议
 
